@@ -1,6 +1,4 @@
 // Implements linear search for numbers
-
-#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
