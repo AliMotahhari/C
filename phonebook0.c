@@ -1,6 +1,4 @@
-// Implements a phone book without structs
-
-#include <cs50.h>
+// Implements a phone book without struct
 #include <stdio.h>
 #include <string.h>
 
